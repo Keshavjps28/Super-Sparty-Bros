@@ -1,2 +1,2 @@
 # Super-Sparty-Bros
-I have made the level1 of the game from scratch with the help of course from Coursera and then Added a Level2 myself with some Enhancement.
+I have made the level1 of the game from scratch with the help of course from Coursera and then Added a Level2 myself with some Enhancement.In this, the player has to collect the coins and also to save his life from Enemies, In total player has the three lives and after that game is over to complete the level player has to collect the treasure i.e., Rose in level1 and after that, the player reaches to level2 and so on to complete the level.
